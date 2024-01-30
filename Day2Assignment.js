@@ -19,18 +19,18 @@ var employeeBuddy = "XYZ";  //Not recommended to use var
 
 //3. Declare variables to store your first name, last name, marital status, country and age in multiple lines
 
-var firstName;
-var lastName;
-var maritalStatus;
-var country;
-var age;
+let firstName;
+let lastName;
+let maritalStatus;
+let country;
+let age;
 //Note: We can't use const as we need to to assign value at the same line.
 //Note: var allows redeclaration of variables. We cant redeclare a let or const variable.
 
 
-//4. Declare variables to store your first name, last name, marital status, country and age in a single line
+//4. Declare variables to store your father name, mother name, and fatherAge in a single line
 
-var firstName, lastName, maritalStatus, country, age;
+var fatherName, motherName, fatherAge;
 //Note: Redecalaration is not allowed in let and const.
 
 
